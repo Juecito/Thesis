@@ -5,38 +5,38 @@
 \contentsline {section}{\numberline {1.1}Presentaci\IeC {\'o}n}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Objetivo}{2}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Motivaci\IeC {\'o}n}{2}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Planteamiento del problema}{2}{subsection.1.1.3}
-\contentsline {subsection}{\numberline {1.1.4}Metodolog\IeC {\'\i }a}{2}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.3}Planteamiento del problema}{3}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Metodolog\IeC {\'\i }a}{3}{subsection.1.1.4}
 \contentsline {subsection}{\numberline {1.1.5}Contribuciones}{3}{subsection.1.1.5}
 \contentsline {subsection}{\numberline {1.1.6}Estructura de la tesis}{3}{subsection.1.1.6}
 \contentsline {section}{\numberline {1.2}Marco te\IeC {\'o}rico}{3}{section.1.2}
 \contentsline {paragraph}{algoporaqui}{3}{paragraph*.8}
 \contentsline {chapter}{\numberline {2}\leavevmode {\color {Azul}Descripci\IeC {\'o}n de un robot de 5 grados de libertad}}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Articulaciones y pares cinem\IeC {\'a}ticos}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Cinem\IeC {\'a}tica directa}{6}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Posici\IeC {\'o}n}{6}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Orientaci\IeC {\'o}n}{6}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Cinem\IeC {\'a}tica inversa}{6}{section.2.3}
-\contentsline {section}{\numberline {2.4}Modelado}{6}{section.2.4}
-\contentsline {chapter}{\numberline {3}\leavevmode {\color {Azul}Control}}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Fundamentos de control}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Esquemas de control}{7}{section.3.2}
-\contentsline {section}{\numberline {3.3}Control por par calculado}{7}{section.3.3}
-\contentsline {section}{\numberline {3.4}Par\IeC {\'a}metros de dise\IeC {\~n}o}{7}{section.3.4}
-\contentsline {chapter}{\numberline {4}\leavevmode {\color {Azul}Dise\IeC {\~n}o Mec\IeC {\'a}nico}}{9}{chapter.4}
-\contentsline {section}{\numberline {4.1}Elementos f\IeC {\'\i }sicos}{9}{section.4.1}
-\contentsline {section}{\numberline {4.2}Barras, rodamientos, contrapesos}{9}{section.4.2}
-\contentsline {section}{\numberline {4.3}M\IeC {\'e}todos de uni\IeC {\'o}n}{9}{section.4.3}
-\contentsline {chapter}{\numberline {5}\leavevmode {\color {Azul}Manufactura e instrumentaci\IeC {\'o}n}}{11}{chapter.5}
-\contentsline {section}{\numberline {5.1}Ensamble de componentes}{11}{section.5.1}
-\contentsline {section}{\numberline {5.2}Sensores y actuadores}{11}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Motores}{11}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Decodificador \IeC {\'o}ptico}{11}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Microcontrolador}{11}{section.5.3}
-\contentsline {chapter}{\numberline {6}\leavevmode {\color {Azul}Implementaci\IeC {\'o}n}}{13}{chapter.6}
-\contentsline {section}{\numberline {6.1}Programaci\IeC {\'o}n}{13}{section.6.1}
-\contentsline {section}{\numberline {6.2}Puesta en marcha}{13}{section.6.2}
-\contentsline {section}{\numberline {6.3}Pruebas mec\IeC {\'a}nicas}{13}{section.6.3}
-\contentsline {chapter}{\numberline {A}Resultados}{15}{appendix.Alph1}
-\contentsline {chapter}{\numberline {B}Referencias}{17}{appendix.Alph2}
-\contentsline {chapter}{\numberline {C}Conclusiones/Trabajo a futuro}{19}{appendix.Alph3}
+\contentsline {section}{\numberline {2.2}Cinem\IeC {\'a}tica directa}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Posici\IeC {\'o}n}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Orientaci\IeC {\'o}n}{7}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Cinem\IeC {\'a}tica inversa}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Modelado}{7}{section.2.4}
+\contentsline {chapter}{\numberline {3}\leavevmode {\color {Azul}Control}}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Fundamentos de control}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Esquemas de control}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Control por par calculado}{9}{section.3.3}
+\contentsline {section}{\numberline {3.4}Par\IeC {\'a}metros de dise\IeC {\~n}o}{9}{section.3.4}
+\contentsline {chapter}{\numberline {4}\leavevmode {\color {Azul}Dise\IeC {\~n}o Mec\IeC {\'a}nico}}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}Elementos f\IeC {\'\i }sicos}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}Barras, rodamientos, contrapesos}{11}{section.4.2}
+\contentsline {section}{\numberline {4.3}M\IeC {\'e}todos de uni\IeC {\'o}n}{11}{section.4.3}
+\contentsline {chapter}{\numberline {5}\leavevmode {\color {Azul}Manufactura e instrumentaci\IeC {\'o}n}}{13}{chapter.5}
+\contentsline {section}{\numberline {5.1}Ensamble de componentes}{13}{section.5.1}
+\contentsline {section}{\numberline {5.2}Sensores y actuadores}{13}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Motores}{13}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Decodificador \IeC {\'o}ptico}{13}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Microcontrolador}{13}{section.5.3}
+\contentsline {chapter}{\numberline {6}\leavevmode {\color {Azul}Implementaci\IeC {\'o}n}}{15}{chapter.6}
+\contentsline {section}{\numberline {6.1}Programaci\IeC {\'o}n}{15}{section.6.1}
+\contentsline {section}{\numberline {6.2}Puesta en marcha}{15}{section.6.2}
+\contentsline {section}{\numberline {6.3}Pruebas mec\IeC {\'a}nicas}{15}{section.6.3}
+\contentsline {chapter}{\numberline {A}Resultados}{17}{appendix.Alph1}
+\contentsline {chapter}{\numberline {B}Referencias}{19}{appendix.Alph2}
+\contentsline {chapter}{\numberline {C}Conclusiones/Trabajo a futuro}{21}{appendix.Alph3}
