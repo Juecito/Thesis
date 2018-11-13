@@ -17,24 +17,25 @@
 \BOOKMARK [1][]{section.2.3}{2.3 Cinem\341tica inversa}{chapter.2}% 17
 \BOOKMARK [1][]{section.2.4}{2.4 Modelado}{chapter.2}% 18
 \BOOKMARK [0][]{chapter.3}{3 Control}{}% 19
-\BOOKMARK [1][]{section.3.1}{3.1 Fundamentos de control}{chapter.3}% 20
+\BOOKMARK [1][]{section.3.1}{3.1 Conceptos de control}{chapter.3}% 20
 \BOOKMARK [1][]{section.3.2}{3.2 Esquemas de control}{chapter.3}% 21
-\BOOKMARK [1][]{section.3.3}{3.3 Control por par calculado}{chapter.3}% 22
-\BOOKMARK [1][]{section.3.4}{3.4 Par\341metros de dise\361o}{chapter.3}% 23
-\BOOKMARK [0][]{chapter.4}{4 Dise\361o Mec\341nico}{}% 24
-\BOOKMARK [1][]{section.4.1}{4.1 Elementos f\355sicos}{chapter.4}% 25
-\BOOKMARK [1][]{section.4.2}{4.2 Barras, rodamientos, contrapesos}{chapter.4}% 26
-\BOOKMARK [1][]{section.4.3}{4.3 M\351todos de uni\363n}{chapter.4}% 27
-\BOOKMARK [0][]{chapter.5}{5 Manufactura e instrumentaci\363n}{}% 28
-\BOOKMARK [1][]{section.5.1}{5.1 Ensamble de componentes}{chapter.5}% 29
-\BOOKMARK [1][]{section.5.2}{5.2 Sensores y actuadores}{chapter.5}% 30
-\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Motores}{section.5.2}% 31
-\BOOKMARK [2][]{subsection.5.2.2}{5.2.2 Decodificador \363ptico}{section.5.2}% 32
-\BOOKMARK [1][]{section.5.3}{5.3 Microcontrolador}{chapter.5}% 33
-\BOOKMARK [0][]{chapter.6}{6 Implementaci\363n}{}% 34
-\BOOKMARK [1][]{section.6.1}{6.1 Programaci\363n}{chapter.6}% 35
-\BOOKMARK [1][]{section.6.2}{6.2 Puesta en marcha}{chapter.6}% 36
-\BOOKMARK [1][]{section.6.3}{6.3 Pruebas mec\341nicas}{chapter.6}% 37
-\BOOKMARK [0][]{appendix.Alph1}{A Resultados}{}% 38
-\BOOKMARK [0][]{appendix.Alph2}{B Referencias}{}% 39
-\BOOKMARK [0][]{appendix.Alph3}{C Conclusiones/Trabajo a futuro}{}% 40
+\BOOKMARK [2][]{subsection.3.2.1}{3.2.1 PID}{section.3.2}% 22
+\BOOKMARK [1][]{section.3.3}{3.3 Control por par calculado}{chapter.3}% 23
+\BOOKMARK [1][]{section.3.4}{3.4 Par\341metros de dise\361o}{chapter.3}% 24
+\BOOKMARK [0][]{chapter.4}{4 Dise\361o Mec\341nico}{}% 25
+\BOOKMARK [1][]{section.4.1}{4.1 Elementos f\355sicos}{chapter.4}% 26
+\BOOKMARK [1][]{section.4.2}{4.2 Barras, rodamientos, contrapesos}{chapter.4}% 27
+\BOOKMARK [1][]{section.4.3}{4.3 M\351todos de uni\363n}{chapter.4}% 28
+\BOOKMARK [0][]{chapter.5}{5 Manufactura e instrumentaci\363n}{}% 29
+\BOOKMARK [1][]{section.5.1}{5.1 Ensamble de componentes}{chapter.5}% 30
+\BOOKMARK [1][]{section.5.2}{5.2 Sensores y actuadores}{chapter.5}% 31
+\BOOKMARK [2][]{subsection.5.2.1}{5.2.1 Motores}{section.5.2}% 32
+\BOOKMARK [2][]{subsection.5.2.2}{5.2.2 Decodificador \363ptico}{section.5.2}% 33
+\BOOKMARK [1][]{section.5.3}{5.3 Microcontrolador}{chapter.5}% 34
+\BOOKMARK [0][]{chapter.6}{6 Implementaci\363n}{}% 35
+\BOOKMARK [1][]{section.6.1}{6.1 Programaci\363n}{chapter.6}% 36
+\BOOKMARK [1][]{section.6.2}{6.2 Puesta en marcha}{chapter.6}% 37
+\BOOKMARK [1][]{section.6.3}{6.3 Pruebas mec\341nicas}{chapter.6}% 38
+\BOOKMARK [0][]{appendix.Alph1}{A Resultados}{}% 39
+\BOOKMARK [0][]{appendix.Alph2}{B Referencias}{}% 40
+\BOOKMARK [0][]{appendix.Alph3}{C Conclusiones/Trabajo a futuro}{}% 41
