@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.31)  6 NOV 2018 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=latex 2018.8.29)  13 NOV 2018 13:35
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -264,11 +264,15 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 .cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 147.
+Package color Info: Driver file: dvips.def on input line 147.
 
-("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\dvips
+.def"
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+)
+("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsnam.
+def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
 ("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\footmisc\footmisc.
 sty"
@@ -417,7 +421,7 @@ Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
@@ -462,8 +466,6 @@ Now handling font encoding PD1 ...
 cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `plainpages' set `false' on input line 4383.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4383.
 Package hyperref Info: Option `bookmarks' set `true' on input line 4383.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 4383.
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4383
@@ -515,15 +517,30 @@ LaTeX Info: Redefining \pageref on input line 6443.
 \c@Item=\count135
 \c@Hfootnote=\count136
 )
-Package hyperref Info: Driver: hpdftex.
+Package hyperref Info: Driver: hdvips.
 
-("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
+("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hdvips.de
+f"
+File: hdvips.def 2018/02/06 v6.86b Hyperref driver for dvips
+
+("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pdfmark.d
 ef"
-File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count137
-\c@bookmark@seq@number=\count138
+File: pdfmark.def 2018/02/06 v6.86b Hyperref definitions for pdfmark specials
+
+
+Package hyperref Warning: You have enabled option `breaklinks'.
+(hyperref)                But driver `hdvips.def' does not suppport this.
+(hyperref)                Expect trouble with the link areas of broken links.
+
+\pdf@docset=\toks27
+\pdf@box=\box57
+\pdf@toks=\toks28
+\pdf@defaulttoks=\toks29
+\HyField@AnnotCount=\count137
+\Fld@listcount=\count138
+\c@bookmark@seq@number=\count139
 \Hy@SectionHShift=\skip68
-)
+))
 ("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
 sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -539,7 +556,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: dvips.def on input line 99.
 )
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
@@ -551,29 +568,34 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 ("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count139
-\c@Blindtext=\count140
-\c@blind@countparstart=\count141
-\blind@countxx=\count142
-\blindtext@numBlindtext=\count143
-\blind@countyy=\count144
-\c@blindlist=\count145
-\c@blindlistlevel=\count146
-\c@blindlist@level=\count147
-\blind@listitem=\count148
-\c@blind@listcount=\count149
-\c@blind@levelcount=\count150
-\blind@mathformula=\count151
-\blind@Mathformula=\count152
-\c@blind@randomcount=\count153
-\c@blind@randommax=\count154
-\c@blind@pangramcount=\count155
-\c@blind@pangrammax=\count156
+\c@blindtext=\count140
+\c@Blindtext=\count141
+\c@blind@countparstart=\count142
+\blind@countxx=\count143
+\blindtext@numBlindtext=\count144
+\blind@countyy=\count145
+\c@blindlist=\count146
+\c@blindlistlevel=\count147
+\c@blindlist@level=\count148
+\blind@listitem=\count149
+\c@blind@listcount=\count150
+\c@blind@levelcount=\count151
+\blind@mathformula=\count152
+\blind@Mathformula=\count153
+\c@blind@randomcount=\count154
+\c@blind@randommax=\count155
+\c@blind@pangramcount=\count156
+\c@blind@pangrammax=\count157
 )
 \@input{Latex/Macros/MacroFile1.aux}
 \openout2 = `Latex/Macros/MacroFile1.aux'.
 
-(Latex/Macros/MacroFile1.tex) (tesis.aux
+(Latex/Macros/MacroFile1.tex)
+
+LaTeX Warning: Unused global option(s):
+    [pdftex].
+
+(tesis.aux
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
  (Agradecimientos/Dedicatoria.aux)
@@ -599,43 +621,13 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
-\c@lstlisting=\count157
+\c@lstlisting=\count158
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \. on input line 40.
 LaTeX Info: Redefining \% on input line 40.
-
-("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count158
-\scratchdimen=\dimen150
-\scratchbox=\box57
-\nofMPsegments=\count159
-\nofMParguments=\count160
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count161
-\MPscratchDim=\dimen151
-\MPnumerator=\count162
-\makeMPintoPDFobject=\count163
-\everyMPtoPDFconversion=\toks28
-)
-("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.jpg,.pdf,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
 \AtBeginShipoutBox=\box58
 Package backref Info: ** backref set up for natbib ** on input line 40.
 Package hyperref Info: Link coloring ON on input line 40.
@@ -648,7 +640,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count164
+\c@section@level=\count159
 )
 LaTeX Info: Redefining \ref on input line 40.
 LaTeX Info: Redefining \pageref on input line 40.
@@ -657,20 +649,41 @@ LaTeX Info: Redefining \nameref on input line 40.
 \@outlinefile=\write4
 \openout4 = `tesis.out'.
 
-<Latex/Classes/Escudos/unam_azul_5x5cm.pdf, id=163, 142.26376pt x 142.26376pt>
-File: Latex/Classes/Escudos/unam_azul_5x5cm.pdf Graphic file (type pdf)
-<use Latex/Classes/Escudos/unam_azul_5x5cm.pdf>
-Package pdftex.def Info: Latex/Classes/Escudos/unam_azul_5x5cm.pdf  used on inp
-ut line 42.
-(pdftex.def)             Requested size: 73.97975pt x 73.97733pt.
-<Latex/Classes/Escudos/fi_azul.pdf, id=164, 332.24126pt x 393.47pt>
-File: Latex/Classes/Escudos/fi_azul.pdf Graphic file (type pdf)
-<use Latex/Classes/Escudos/fi_azul.pdf>
-Package pdftex.def Info: Latex/Classes/Escudos/fi_azul.pdf  used on input line 
-42.
-(pdftex.def)             Requested size: 62.46237pt x 73.97733pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 42.
 
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+! LaTeX Error: File `Latex/Classes/Escudos/unam_azul_5x5cm' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \maketitle
+               									% Se redefinió este comando en el archivo de la cla...
+
+I could not locate the file with any of these extensions:
+.eps,.ps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `Latex/Classes/Escudos/fi_azul' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \maketitle
+               									% Se redefinió este comando en el archivo de la cla...
+
+I could not locate the file with any of these extensions:
+.eps,.ps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
 ("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -682,7 +695,7 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 42.
 ("C:\Users\jueci\AppData\Local\Programs\MiKTeX 2.9\tex\latex\jknappen\ursfs.fd"
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Overfull \vbox (255.31291pt too high) detected at line 42
+Overfull \vbox (119.95827pt too high) detected at line 42
  []
 
 
@@ -700,29 +713,18 @@ Overfull \vbox (260.82735pt too high) detected at line 42
 
 \FN@pp@footnotehinttrue 
 
-{C:/Users/jueci/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Latex/Cla
-sses/Escudos/unam_azul_5x5cm.pdf> <./Latex/Classes/Escudos/fi_azul.pdf>]
-[2
+] [2
 
 ]
 \openout2 = `Agradecimientos/Dedicatoria.aux'.
 
- (Agradecimientos/Dedicatoria.texpdfTeX warning (ext4): destination with the sa
-me identifier (name{page.I}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.6 \end{dedication}
-                     [1
+ (Agradecimientos/Dedicatoria.tex [1
 
 ])
 \openout2 = `Agradecimientos/Agradecimientos.aux'.
 
- (Agradecimientos/Agradecimientos.texpdfTeX warning (ext4): destination with th
-e same identifier (name{page.II}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.4 \begin{acknowledgements}
-                             [2
+
+(Agradecimientos/Agradecimientos.tex [2
 
 
 ] [3
@@ -730,7 +732,8 @@ l.4 \begin{acknowledgements}
 ])
 \openout2 = `Declaracion/Declaracion.aux'.
 
- (Declaracion/Declaracion.tex [4
+ (Declaracion/Declaracion.tex
+[4
 
 
 ] [5
@@ -738,8 +741,7 @@ l.4 \begin{acknowledgements}
 ])
 \openout2 = `Resumen/Resumen.aux'.
 
-
-(Resumen/Resumen.tex [6
+ (Resumen/Resumen.tex [6
 
 
 ] [7
@@ -806,23 +808,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-<Capitulo1/figs/EstructuraManipulador.png, id=301, 930.47626pt x 517.33275pt>
-File: Capitulo1/figs/EstructuraManipulador.png Graphic file (type png)
-<use Capitulo1/figs/EstructuraManipulador.png>
-Package pdftex.def Info: Capitulo1/figs/EstructuraManipulador.png  used on inpu
-t line 27.
-(pdftex.def)             Requested size: 465.23698pt x 258.66574pt.
 
-Overfull \hbox (52.67203pt too wide) in paragraph at lines 27--28
- [][] 
- []
+! LaTeX Error: Cannot determine size of graphic in Capitulo1/figs/EstructuraMan
+ipulador.png (no BoundingBox).
 
-[1
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...{Capitulo1/figs/EstructuraManipulador.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Capitulo1/figs/EstructuraManipulador.png Graphic file (type eps)
+<Capitulo1/figs/EstructuraManipulador.png> [1
 
 
 ]
-LaTeX Info: Redefining \. on input line 57.
-LaTeX Info: Redefining \% on input line 57.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
 
 
 ! LaTeX Error: Undefined color `AZUL'.
@@ -831,12 +836,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57 \subsection{Metodología}
-                              
+l.68 
+     
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[2 <./Capitulo1/figs/EstructuraManipulador.png>]
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
@@ -877,17 +882,23 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Capitulo2/figs/pares.png, id=323, 404.30852pt x 578.87202pt>
-File: Capitulo2/figs/pares.png Graphic file (type png)
-<use Capitulo2/figs/pares.png>
-Package pdftex.def Info: Capitulo2/figs/pares.png  used on input line 16.
-(pdftex.def)             Requested size: 404.30753pt x 578.8706pt.
 
-LaTeX Warning: Float too large for page by 13.91528pt on input line 19.
+! LaTeX Error: Cannot determine size of graphic in Capitulo2/figs/pares.png (no
+ BoundingBox).
 
-[5]
-LaTeX Info: Redefining \. on input line 33.
-LaTeX Info: Redefining \% on input line 33.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...phics[scale=1.0]{Capitulo2/figs/pares.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Capitulo2/figs/pares.png Graphic file (type eps)
+<Capitulo2/figs/pares.png> [5])
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
 
 
 ! LaTeX Error: Undefined color `AZUL'.
@@ -896,31 +907,25 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 \begin{lstlisting}[frame=single]
-                                     
+l.71 \include{Capitulo2/descripcion_robot_5GDL}
+                                                          % ~20 páginas - P...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[6 <./Capitulo2/figs/pares.png>])
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
- [7]
+[6]
 \openout2 = `Capitulo3/control.aux'.
 
- (Capitulo3/control.tex [8
-
-
-
-]
+ (Capitulo3/control.tex
 Cap\'{\i }tulo 3.
 
-Package natbib Warning: Citation `latex' on page 9 undefined on input line 8.
+Package natbib Warning: Citation `latex' on page 7 undefined on input line 8.
 
 
-Package natbib Warning: Citation `RR73' on page 9 undefined on input line 9.
+Package natbib Warning: Citation `RR73' on page 7 undefined on input line 9.
 
 
-Package natbib Warning: Citation `texbook' on page 9 undefined on input line 26
+Package natbib Warning: Citation `texbook' on page 7 undefined on input line 26
 .
 
 
@@ -930,12 +935,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40 \begin{table}[htdp]
+l.41 \begin{table}[htdp]
                                                      %Inicia el entorno tabl...
 
 Option `d' ignored and `p' used.
 
-) [9]
+) [7
+
+
+
+]
 LaTeX Info: Redefining \. on input line 72.
 LaTeX Info: Redefining \% on input line 72.
 
@@ -952,78 +961,71 @@ l.72 \include{Capitulo3/control}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[10]
+[8]
 \openout2 = `Capitulo4/diseno_mecanico.aux'.
 
  (Capitulo4/diseno_mecanico.tex
 Cap\'{\i }tulo 4.
-) [11
+) [9
 
 
 
 ]
 \openout2 = `Capitulo5/manufactura_instrumentacion.aux'.
 
- (Capitulo5/manufactura_instrumentacion.tex [12
+ (Capitulo5/manufactura_instrumentacion.tex [10
 
 
 
 ]
 Cap\'{\i }tulo 5.
-<Capitulo5/figs/Gripper.png, id=364, 525.76425pt x 349.90726pt>
-File: Capitulo5/figs/Gripper.png Graphic file (type png)
-<use Capitulo5/figs/Gripper.png>
-Package pdftex.def Info: Capitulo5/figs/Gripper.png  used on input line 14.
-(pdftex.def)             Requested size: 262.88147pt x 174.95319pt.
-) [13]
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
 
-
-! LaTeX Error: Undefined color `AZUL'.
+! LaTeX Error: Cannot determine size of graphic in Capitulo5/figs/Gripper.png (
+no BoundingBox).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.74 ...ude{Capitulo5/manufactura_instrumentacion}
-                                                              % ~5 páginas ...
+l.14 ...ics[scale=0.5]{Capitulo5/figs/Gripper.png}
+                                                        %Ruta completa de la...
 
-You're in trouble here.  Try typing  <return>  to proceed.
+Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-[14 <./Capitulo5/figs/Gripper.png>]
+File: Capitulo5/figs/Gripper.png Graphic file (type eps)
+<Capitulo5/figs/Gripper.png>) [11]
 \openout2 = `Capitulo6/implementacion.aux'.
 
- (Capitulo6/implementacion.tex
-Cap\'{\i }tulo 6.
-) [15
+ (Capitulo6/implementacion.tex [12
 
 
 
 ]
+Cap\'{\i }tulo 6.
+) [13]
 \openout2 = `Resultados/resultados.aux'.
 
- (Resultados/resultados.tex [16
+ (Resultados/resultados.tex [14
 
 
 
 ]
 Ap\'{e}ndice A.
-) [17]
+) [15]
 \openout2 = `Apendice1/Apendice1.aux'.
 
- (Apendice1/Apendice1.tex [18
+ (Apendice1/Apendice1.tex [16
 
 
 
 ]
 Ap\'{e}ndice B.
-[19] [20
+[17] [18
 
 ]
 Ap\'{e}ndice C.
-) [21]
+) [19]
 No file tesis.bbl.
 
 Package natbib Warning: There were undefined citations.
@@ -1040,38 +1042,26 @@ LaTeX Info: Redefining \% on input line 21.
 (Capitulo4/diseno_mecanico.aux) (Capitulo5/manufactura_instrumentacion.aux)
 (Capitulo6/implementacion.aux) (Resultados/resultados.aux)
 (Apendice1/Apendice1.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 98.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 2F2A2D644DCA341D05F6780464C29441;2769.
+(rerunfilecheck)             Checksum: 488812A30649A2B0A46E750092331C5B;2832.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
  ) 
 Here is how much of TeX's memory you used:
- 11454 strings out of 492973
- 172507 string characters out of 3126692
- 286444 words of memory out of 3000000
- 14938 multiletter control sequences out of 15000+200000
+ 11029 strings out of 492974
+ 166120 string characters out of 3126718
+ 288288 words of memory out of 3000000
+ 14607 multiletter control sequences out of 15000+200000
  12465 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,48p,2239b,1027s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/jueci/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/jueci/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/jueci/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/jueci/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/jueci/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ju
-eci/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-<C:/Users/jueci/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr12.pfb><C:/Users/jueci/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr17.pfb><C:/Users/jueci/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on tesis.pdf (37 pages, 993298 bytes).
-PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
- 346 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43i,12n,48p,2241b,1033s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+Output written on tesis.dvi (35 pages, 86560 bytes).
