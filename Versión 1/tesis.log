@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.23)  13 NOV 2018 10:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.23)  13 NOV 2018 10:40
 entering extended mode
 **./tesis.tex
 (tesis.tex
@@ -1004,7 +1004,7 @@ Underfull \hbox (badness 10000) detected at line 42
  []
 
 
-Overfull \vbox (260.82735pt too high) detected at line 42
+Overfull \vbox (274.42735pt too high) detected at line 42
  []
 
 [1
@@ -1024,8 +1024,8 @@ sses/Escudos/unam_azul_5x5cm.pdf> <./Latex/Classes/Escudos/fi_azul.pdf>]
 me identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.6 \end{dedication}
-                     [1
+l.12 \end{dedication}
+                      [1
 
 ])
 \openout2 = `Agradecimientos/Agradecimientos.aux'.
@@ -1366,7 +1366,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
 Here is how much of TeX's memory you used:
  11784 strings out of 493305
  175359 string characters out of 3129802
- 282496 words of memory out of 3000000
+ 282531 words of memory out of 3000000
  14935 multiletter control sequences out of 15000+200000
  12465 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1382,7 +1382,7 @@ rbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 m/cmr12.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><C:/Users/jarbp/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmti10.pfb>
-Output written on tesis.pdf (37 pages, 997348 bytes).
+Output written on tesis.pdf (37 pages, 998417 bytes).
 PDF statistics:
  460 PDF objects out of 1000 (max. 8388607)
  88 named destinations out of 1000 (max. 500000)
